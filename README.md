@@ -14,6 +14,7 @@
 
 - `docs/concept.md` ― 設計書（章立て・識別タグ・文体ルール）
 - `chapters/` ― 本編（各章末に「系譜メモ」で関係線を整理）
+- `visual/family-tree.html` ― ビジュアル家系図（補助教材・ブラウザで開く単一HTML）
 
 ## 進捗
 
